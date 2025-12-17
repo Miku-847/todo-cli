@@ -2,7 +2,7 @@
 
 A simple **command-line to-do list application** built with Python.  
 Tasks are stored locally in a JSON file and persist between runs.
-
+X
 This project demonstrates core Python concepts such as file I/O, data structures, program flow, and basic project organization.
 
 ---
@@ -25,12 +25,17 @@ This project demonstrates core Python concepts such as file I/O, data structures
 
 ```
 todo-cli/
-├── main.py # Application entry point & menu
-├── tasks.py # Task-related operations
-├── storage.py # Load/save tasks from JSON
-├── utils.py # Helper functions
-├── user_tasks.json # Auto-generated task storage
-└── README.md
+├── todo_cli/
+│   ├── main.py
+│   ├── tasks.py
+│   ├── storage.py
+│   ├── utils.py
+├── screenshots/
+│   └── cli.png
+├── user_tasks.json # Created automatically when tasks are added
+├── README.md
+├── .gitignore
+
 ```
 ---
 ## Getting Started
@@ -57,9 +62,7 @@ Follow the prompts to manage your tasks!!
 
 ## 📂 Example Output
 
-![CLI To-Do List Screenshot](screenshots/cli.png)
-<img src="screenshot/cli.png" width="600">
-
+<img src="screenshots/cli.png" width="650">
 
 ## 📂 Possible Improvements
 - Task priorities or due dates
