@@ -1,4 +1,4 @@
-# 📝 Python CLI To-Do List Manager
+# Python CLI To-Do List Manager
 
 A simple **command-line to-do list application** built with Python.  
 Tasks are stored locally in a JSON file and persist between runs.
@@ -38,7 +38,7 @@ todo-cli/
 
 ```
 ---
-## Getting Started
+## 📂 Getting Started
 
 ### Requirements
 - Python 3.7+
@@ -60,7 +60,7 @@ When you run the app, you’ll see:
 ```
 Follow the prompts to manage your tasks!!
 
-## 📂 Example Output
+## Example Output
 
 <img src="screenshots/cli.png" width="650">
 
