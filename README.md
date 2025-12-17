@@ -20,7 +20,17 @@ This project demonstrates core Python concepts such as file I/O, data structures
 - Persistent storage using JSON
 
 ---
+## Data Persistence
 
+- Tasks are stored in a local JSON file (user_tasks.json)
+- File is created automatically on first use
+- Each task includes:
+  - ID
+  - Status
+  - Creation timestamp
+  - Completion timestamp
+
+---
 ## 📂 Project Structure
 
 ```
