@@ -2,7 +2,7 @@
 
 A simple **command-line to-do list application** built with Python.  
 Tasks are stored locally in a JSON file and persist between runs.
-X
+
 This project demonstrates core Python concepts such as file I/O, data structures, program flow, and basic project organization.
 
 ---
@@ -70,5 +70,5 @@ Follow the prompts to manage your tasks!!
 - Search/filter tasks
 - UI design
 
-## 📜 License
+## 📂 License
 This project is for learning and personal use.
